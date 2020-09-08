@@ -1,5 +1,5 @@
 **Name**: Benjamin Mills
 
-**Assignment Name**: Assignment 1A: Create Glitch Account and Page
+**Assignment Name**: Assignment 2A: GitHUb
 
 **Date**: September 7, 2020
