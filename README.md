@@ -2,4 +2,4 @@
 
 **Assignment Name**: Assignment 1A: Create Glitch Account and Page
 
-**Date**: September 1, 2020
+**Date**: September 7, 2020
